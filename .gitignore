@@ -1,0 +1,7 @@
+.venv/
+AerialImageDataset/
+data/
+outputs/
+runs/
+__pycache__/
+unet_resnet34_inria.pth
